@@ -1,0 +1,15 @@
+<template>
+  <div class="app">  
+    <router-view></router-view>
+  </div>
+  
+</template>
+
+<style>
+#app{
+  margin: 0; 
+  padding: 0;
+  height:100%;
+}
+
+</style>
